@@ -1,4 +1,5 @@
 aws_readme
 git_readme
 .git
+.gitignore
 .terraform
